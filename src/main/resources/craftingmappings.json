@@ -730,6 +730,27 @@
       ]
     },
     {
+      "entryName": "mwc:sv98",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "mwc:synthetic_polymer_composite",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mwc:gunmetal_plate",
+          "isOreDictionary": false,
+          "count": 16
+        },
+        {
+          "entryName": "mwc:steel_ingot",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
       "entryName": "mwc:m9a1",
       "craftingGroup": "GUN",
       "recipe": [
